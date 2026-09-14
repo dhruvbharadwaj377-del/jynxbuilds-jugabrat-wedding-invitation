@@ -42,11 +42,7 @@ const galleryImages = [
 ]
 
 function getConfig() {
-  const params = new URLSearchParams(window.location.search)
-
-  return params.get('side') === 'groom'
-    ? groomConfig
-    : brideConfig
+  return groomConfig
 }
 
 function formatNumber(number) {
