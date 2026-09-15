@@ -837,7 +837,7 @@ function Story() {
           <p>
             We had never believed in love at first sight{' '}
             <br />
-            untill we met each other.
+            until we met each other.
           </p>
 
           <p>
